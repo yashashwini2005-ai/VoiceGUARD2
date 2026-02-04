@@ -1,4 +1,8 @@
+fastapi
+uvicorn
 torch
-torchaudio
 transformers
+librosa
 numpy
+scipy
+soundfile
