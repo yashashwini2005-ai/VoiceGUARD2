@@ -1,6 +1,3 @@
 fastapi
 uvicorn
-numpy
-scipy
-soundfile
-
+pydantic
