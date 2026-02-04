@@ -1,9 +1,8 @@
 fastapi==0.128.0
 uvicorn==0.40.0
 pydantic==2.12.5
-torch
-transformers
-librosa
-numpy
-soundfile
-
+torch==2.2.0        # CPU-only, stable version
+transformers==4.34.0
+librosa==0.10.2
+numpy==1.26.0
+pysoundfile==0.12.1
