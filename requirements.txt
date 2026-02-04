@@ -1,8 +1,6 @@
 fastapi
 uvicorn
-torch
-transformers
-librosa
 numpy
 scipy
 soundfile
+
