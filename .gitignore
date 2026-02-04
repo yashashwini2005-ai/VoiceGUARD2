@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+.env
+*.ipynb
+*.pt
+*.pth
+*.wav
+*.mp3
+.idea/
+.vscode/
